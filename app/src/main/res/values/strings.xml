@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Digio</string>
+
+    <string name="error_default">Sorry, we are not able to complete your request at this moment. Please try again.</string>
+    <string name="error_network">Network connection failed. Please check your internet settings.</string>
+
+</resources>

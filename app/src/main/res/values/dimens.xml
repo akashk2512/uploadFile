@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="margin_small">5dp</dimen>
+    <dimen name="margin_large">10dp</dimen>
+    <dimen name="margin_xlarge">15dp</dimen>
+    <dimen name="margin_xxlarge">20dp</dimen>
+    <dimen name="margin_xxxlarge">25dp</dimen>
+    <dimen name="margin_xxxxlarge">30dp</dimen>
+    <dimen name="margin_xxxxxlarge">40dp</dimen>
+    <dimen name="margin_xxxxxxlarge">50dp</dimen>
+
+
+</resources>
